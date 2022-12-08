@@ -4,7 +4,7 @@ This is my home page! My name is Christy Ho and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/christy-ho0315.
+My GitHub page is https://christy-ho0315.github.io.
 
 ### CPSC 120
 
